@@ -1,0 +1,17 @@
+a:hover {
+  color: black;
+  background-color: aquamarine;
+}
+
+h2:nth-child(2) {
+  color: crimson;
+}
+
+p::first-letter {
+  color: aqua;
+  font-size: 40px;
+}
+
+h1::before {
+  content: url(images\ /ds.jpg);
+}

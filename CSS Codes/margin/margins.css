@@ -1,0 +1,23 @@
+.im {
+  width: 200px;
+  height: 200px;
+  background-color: dodgerblue;
+  border: 5px solid crimson;
+  margin-top: 60px;
+}
+
+.ys {
+  width: 200px;
+  height: 200px;
+  background-color: cornsilk;
+  border: 5px solid lime;
+  margin: 80px;
+}
+
+.tt {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  border: 5px solid indigo;
+  margin: auto;
+}

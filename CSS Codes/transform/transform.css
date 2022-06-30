@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+.box {
+  height: 100px;
+  width: 200px;
+  background-color: dodgerblue;
+  color: aliceblue;
+  margin: 80px auto;
+  position: relative;
+  transform: /*rotate(45deg);*/ /*scale(.20);*/ /*scaleY(2)*/ /*skew(45deg);*/ /*skewX(40deg);*/ translate(
+    0,
+    50px
+  );
+}
+.box h3 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: relative;
+  top: 40%;
+}

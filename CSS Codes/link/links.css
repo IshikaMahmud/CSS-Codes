@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(12, 248, 12, 0.7);
+  font-size: 50px;
+  padding: 5px 15px;
+  border: 5px solid black;
+}
+
+a:hover {
+  color: #fff;
+  background-color: dodgerblue;
+}
+
+a:active {
+  color: rgb(170, 80, 80);
+}
+
+a:visited {
+  color: aliceblue;
+  background-color: rgb(17, 132, 248);
+}

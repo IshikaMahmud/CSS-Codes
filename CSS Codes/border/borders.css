@@ -1,0 +1,12 @@
+.p1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 15px;
+}
+
+#p2{
+    /* border in one declaration */
+    border: 5px dashed blue;
+    border-radius: 10px;
+}

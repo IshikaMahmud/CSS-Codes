@@ -1,0 +1,18 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: dodgerblue;
+  margin: 80px auto;
+  /* transition-property: all;
+transition-delay: 2s;
+transition-duration: 2s;
+transition-timing-function:*/ /*ease-in;*/ /* cubic-bezier(.45,.73,.96,.76); */
+  transition: all 2s 2s ease-in;
+}
+.box:hover {
+  width: 100px;
+  height: 65px;
+  border-radius: 50%;
+  background-color: crimson;
+  transform: rotate(360deg);
+}

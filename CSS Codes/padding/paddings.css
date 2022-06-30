@@ -1,0 +1,18 @@
+.im {
+  width: 200px;
+  height: 100px;
+  background-color: crimson;
+  padding: 20px;
+}
+
+p {
+  color: aliceblue;
+}
+
+.ys {
+  width: 200px;
+  height: 100px;
+  background-color: dodgerblue;
+  padding: 40px;
+  margin-top: 10px;
+}

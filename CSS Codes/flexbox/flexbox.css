@@ -1,0 +1,21 @@
+.flexbox {
+  background-color: cornflowerblue;
+  font-size: 35px;
+  display: flex;
+  /* flex-wrap: wrap;
+flex-direction: column; */
+  flex-flow: wrap row;
+  height: 200px;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.flexbox > div {
+  background-color: aliceblue;
+  color: dodgerblue;
+  margin: 5px;
+  padding: 5px;
+  width: 100px;
+}
+.flexbox > div:nth-child(5) {
+  order: 1;
+}

@@ -1,0 +1,47 @@
+.img1 {
+  width: 200px;
+  float: left;
+}
+
+.img2 {
+  height: 100px;
+  width: 200px;
+  float: right;
+}
+
+/* p{
+    clear:left; [one more value of clear is "both".
+} */
+
+.box1 {
+  width: 100px;
+  height: 20px;
+  background-color: dodgerblue;
+  color: aliceblue;
+}
+
+.box2 {
+  width: 100px;
+  height: 20px;
+  background-color: black;
+  color: white;
+}
+
+.box3 {
+  width: 100px;
+  height: 20px;
+  background-color: lime;
+  color: tomato;
+}
+
+.box4 {
+  width: 100px;
+  height: 20px;
+
+  background-color: lightskyblue;
+  color: crimson;
+}
+
+div {
+  float: right;
+}

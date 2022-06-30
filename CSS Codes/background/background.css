@@ -1,0 +1,13 @@
+h1 {
+  color: aliceblue;
+  background-color: dodgerblue;
+}
+body {
+  background-color: black;
+  background-image: url("MERN.webp");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+p {
+  color: whitesmoke;
+}

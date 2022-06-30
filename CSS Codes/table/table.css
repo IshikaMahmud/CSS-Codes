@@ -1,0 +1,15 @@
+table,
+th,
+td {
+  border: 5px solid dodgerblue;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+}
+th,
+td {
+  color: dodgerblue;
+}

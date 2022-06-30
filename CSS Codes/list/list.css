@@ -1,0 +1,12 @@
+.ul1 {
+  list-style-type: georgian;
+}
+
+.ul2 {
+  list-style-type: decimal-leading-zero;
+  list-style-position: inside;
+}
+
+.ul3 {
+  list-style-image: url("images\ /code game.png");
+}
